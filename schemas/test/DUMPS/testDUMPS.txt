@@ -1,0 +1,22 @@
+create table test (vi,sh,primarykey-kk,i)
+create table vishnu (v,i,s,h,n)
+create table test2 (v,s,primarykey-k,foreignkey-test&kk,l)
+create table test3 (v,i,s,primarykey-h,foreignkey-test&kk)
+
+Select * from vishnu;
+Select * from vishnu;
+select FNAME,LNAME from vishnu;
+select FNAME,Lname from vishnu;
+select * from vishnu;
+select * from vishnu;
+insert into vishnu values (3, Joyce, Joy, 23)
+insert into vishnu values (4, Blue, Ivy,7);
+insert into vishnu values (5, colour, white,19);
+insert into vishnu values ( 7, lily, white, 17);
+insert into vishnu values ( 8, rose,mary,56);
+insert into vishnu values ( 8, lory, lane, 34);
+insert into vishnu values (9, James, John, 29);
+insert into vishnu values (8, Lory, Lane, 27);
+insert into vishnu values (9, Jon, Ron, 67);
+insert into vishnu values (8, Lory, Lane,27);
+insert into vishnu values (9, Jon, Ron, 67);

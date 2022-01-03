@@ -1,0 +1,26 @@
+    Date & Time                Query
+
+01/08/2021 17:26:23		select FNAME,LNAME from vishnu;
+01/08/2021 17:27:46		select * from vishnu where ;
+01/08/2021 18:12:32		Delete from vishnu where LNAME=’RAJ’;
+01/08/2021 18:12:51		delete from vishnu where L
+01/08/2021 18:17:38		delete from vishnu;
+01/08/2021 18:19:24		delete from vishnu where Lname=;
+03/08/2021 16:50:48		select * from vishnu;
+03/08/2021 16:55:03		select * from vishnu;
+07/08/2021 00:49:21		insert into vishnu values (3, Joyce, Joy, 23)
+07/08/2021 00:55:37		insert into vishnu values (4, Blue, Ivy,7);
+07/08/2021 01:12:24		insert into vishnu values (5, colour, white,19);
+07/08/2021 01:20:10		insert into vishnu values ( 7, lily, white, 17);
+07/08/2021 01:20:45		update vishnu set Lname=Red where ID=7;
+07/08/2021 01:53:44		insert into vishnu values ( 8, rose,mary,56);
+07/08/2021 01:57:04		update vishnu set Fname=Jerry where Id=8;
+07/08/2021 02:13:42		insert into vishnu values ( 8, lory, lane, 34);
+07/08/2021 02:15:16		insert into vishnu values (9, James, John, 29);
+07/08/2021 02:16:29		insert into vishnu values (9, Harry, fox, 29);
+07/08/2021 02:27:30		insert into vishnu values (8, Lory, Lane, 27);
+07/08/2021 02:29:29		insert into vishnu values (9, Jon, Ron, 67);
+07/08/2021 02:32:01		insert into vishnu values (9, ron, wayne, 26);
+07/08/2021 02:51:31		insert into vishnu values (8, Lory, Lane,27);
+07/08/2021 02:54:41		insert into vishnu values (9, Jon, Ron, 67);
+07/08/2021 02:56:04		insert into vishnu values (9, Ron, wayne, 26);

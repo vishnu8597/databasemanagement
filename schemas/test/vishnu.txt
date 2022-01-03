@@ -1,0 +1,8 @@
+$ID,Fname,Lname,Age
+$ID=2,FNAME=RAY,Lname=JONES,&AGE=37
+$ID=1,FNAME=DAMPETLA,Lname=RAINE,&AGE=23
+$ID=6,FNAME=DAMPETLA,Lname=RAINE,&AGE=23
+$ID=3,Fname=JOYCE,Lname=JOY,Age=23
+$ID=4,Fname=BLUE,Lname=IVY,Age=7
+$ID=5,Fname=COLOUR,Lname=WHITE,Age=19
+$ID=7,Fname=LILY,Lname=Red,Age=17
